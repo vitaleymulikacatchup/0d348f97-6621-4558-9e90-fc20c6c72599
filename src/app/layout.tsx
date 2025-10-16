@@ -76,7 +76,6 @@ const nunito = Nunito({
 export const metadata: Metadata = {
   title: "Webild - Build Better Products",
   description: "Create exceptional user experiences with our design system.",
-  canonical: "https://www.webild.com",
   openGraph: {
     title: "Webild - Build Better Products",
     description: "Create exceptional user experiences with our design system.",
