@@ -66,8 +66,8 @@ export default function Home() {
           <FeatureCardTwo
             title="Our Features"
             features={[
-              { title: "Advanced Analytics", description: "Get detailed insights into your business performance", icon: "Zap" },
-              { title: "User-Friendly Interface", description: "Our easy-to-use platform ensures a seamless experience", icon: "Smile" }
+              { title: "Advanced Analytics", description: "Get detailed insights into your business performance", icon: Zap },
+              { title: "User-Friendly Interface", description: "Our easy-to-use platform ensures a seamless experience", icon: Smile }
             ]}
           />
         </div>
@@ -77,7 +77,7 @@ export default function Home() {
           <TeamCardTwo
             title="Meet Our Team"
             members={[
-              { id: "1", name: "Alisa Hester", role: "Founder & CEO", description: "Former co-founder of Opendoor. Early staff at Spotify and Clearbit.", imageSrc: "https://images.pexels.com/photos/3810753/pexels-photo-3810753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", socialLinks: [{ icon: "Twitter", url: "https://twitter.com/alisa" }, { icon: "Linkedin", url: "https://linkedin.com/in/alisa" }] }
+              { id: "1", name: "Alisa Hester", role: "Founder & CEO", description: "Former co-founder of Opendoor. Early staff at Spotify and Clearbit.", imageSrc: "https://images.pexels.com/photos/3810753/pexels-photo-3810753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", socialLinks: [{ icon: Twitter, url: "https://twitter.com/alisa" }, { icon: Linkedin, url: "https://linkedin.com/in/alisa" }] }
             ]}
           />
         </div>
